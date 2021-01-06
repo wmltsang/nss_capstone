@@ -24,9 +24,7 @@ Tennessee has one of the highest chronic disease rates among states including **
 -Measurement Unit: Crude Prevalence 
 
 -Survey: Behavioral Risk Factor Surveillance System (BRFSS) 
-<!-- <img src="https://dchealth.dc.gov/sites/default/files/styles/medium/public/dc/sites/doh/service_content/images/BRFSS%20Logo%20%283%29.jpg?itok=xTMiT_IY -->
-" width="300" height="100"> 
-
+![image](https://user-images.githubusercontent.com/66088051/103824089-de209500-5038-11eb-8d01-74b0aee6e061.png)
 
 •	Asked Data Questions on assessing health issues, prioritizing needs and actions needed
 
@@ -39,27 +37,31 @@ Tennessee has one of the highest chronic disease rates among states including **
 
 -What are the obesity rankings between states ?
 
-<!-- ![GitHub Logo](data/tn_obese_overall.jpg) -->
+![image](https://user-images.githubusercontent.com/66088051/103823487-cc8abd80-5037-11eb-9e0f-ee8abe96ad46.png)
+
 
 -What are the social determinants of health in obesity?
-<!-- ![GitHub Logo](data/tn_social_factors.jpg) -->
+
+![image](https://user-images.githubusercontent.com/66088051/103823569-f512b780-5037-11eb-9af4-3a5f686c5037.png)
 
 #### **2. Prioritize needs** 
 
 -What are the lifestyle factors and their relationship with obesity ?
-<!-- ![GitHub Logo](data/correlation.jpg) -->
+
+![image](https://user-images.githubusercontent.com/66088051/103823642-15db0d00-5038-11eb-881d-688393eea199.png)
 
 --Why empathsizing on no activity in TN?
-<!-- ![GitHub Logo](data/comparison.jpg) -->
+
+![image](https://user-images.githubusercontent.com/66088051/103823723-3f943400-5038-11eb-9e5c-561180b0b70a.png)
+
 
 -Where are the obese population with no activity? 
 
+![image](https://user-images.githubusercontent.com/66088051/103823815-6a7e8800-5038-11eb-94b9-f63b392e16b9.png)
 (map of largest cities in Tennessee)
-<!-- ![GitHub Logo](data/map_overview.jpg) -->
 
-
+![image](https://user-images.githubusercontent.com/66088051/103823907-926deb80-5038-11eb-8378-21bb8f9ccd08.png)
 (community census tract map of obese match with no activity)
-<!-- ![GitHub Logo](data/census_tract_map.jpg) -->
 
 #### 3. **Take Action** 
 -What should we do with the analysis?
