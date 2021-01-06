@@ -1,4 +1,4 @@
-![image](https://www.tri-counties.org/wp-content/uploads/2018/01/Template-Portrait-to-landscape_CDC.jpg)
+<img src="https://www.tri-counties.org/wp-content/uploads/2018/01/Template-Portrait-to-landscape_CDC.jpg" width="600" height="200">
 # How to Promote Community Health and Pursue a Healthier Lifestyle in Tennessee? 
 *Examined the relationship between lifestyle choices and obesity in Tennessee*
 
