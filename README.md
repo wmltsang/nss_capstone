@@ -35,7 +35,7 @@ Tennessee has one of the highest chronic disease rates among states including **
 
 -What are the overall Health in chronic diseases indicators (CDIs) between states ?
 
-<!-- ![GitHub Logo](data/tn_overall_cdis.jpg) -->
+![image](https://user-images.githubusercontent.com/66088051/103823126-158e4200-5037-11eb-97f9-738cd133b645.png)
 
 -What are the obesity rankings between states ?
 
