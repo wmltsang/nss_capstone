@@ -24,8 +24,8 @@ Tennessee has one of the highest chronic disease rates among states including **
 -Measurement Unit: Crude Prevalence 
 
 -Survey: Behavioral Risk Factor Surveillance System (BRFSS) 
-<img src="https://dchealth.dc.gov/sites/default/files/styles/medium/public/dc/sites/doh/service_content/images/BRFSS%20Logo%20%283%29.jpg?itok=xTMiT_IY
-" width="300" height="100">
+<!-- <img src="https://dchealth.dc.gov/sites/default/files/styles/medium/public/dc/sites/doh/service_content/images/BRFSS%20Logo%20%283%29.jpg?itok=xTMiT_IY -->
+" width="300" height="100"> 
 
 
 •	Asked Data Questions on assessing health issues, prioritizing needs and actions needed
@@ -35,31 +35,31 @@ Tennessee has one of the highest chronic disease rates among states including **
 
 -What are the overall Health in chronic diseases indicators (CDIs) between states ?
 
-![GitHub Logo](data/tn_overall_cdis.jpg)
+<!-- ![GitHub Logo](data/tn_overall_cdis.jpg) -->
 
 -What are the obesity rankings between states ?
 
-![GitHub Logo](data/tn_obese_overall.jpg)
+<!-- ![GitHub Logo](data/tn_obese_overall.jpg) -->
 
 -What are the social determinants of health in obesity?
-![GitHub Logo](data/tn_social_factors.jpg)
+<!-- ![GitHub Logo](data/tn_social_factors.jpg) -->
 
 #### **2. Prioritize needs** 
 
 -What are the lifestyle factors and their relationship with obesity ?
-![GitHub Logo](data/correlation.jpg)
+<!-- ![GitHub Logo](data/correlation.jpg) -->
 
 --Why empathsizing on no activity in TN?
-![GitHub Logo](data/comparison.jpg)
+<!-- ![GitHub Logo](data/comparison.jpg) -->
 
 -Where are the obese population with no activity? 
 
 (map of largest cities in Tennessee)
-![GitHub Logo](data/map_overview.jpg)
+<!-- ![GitHub Logo](data/map_overview.jpg) -->
 
 
 (community census tract map of obese match with no activity)
-![GitHub Logo](data/census_tract_map.jpg)
+<!-- ![GitHub Logo](data/census_tract_map.jpg) -->
 
 #### 3. **Take Action** 
 -What should we do with the analysis?
